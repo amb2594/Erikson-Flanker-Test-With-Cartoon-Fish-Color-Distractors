@@ -54,11 +54,17 @@ When the target and flankers share a color, the participant must rely entirely o
 
 ### Parameters
 The experiment was designed so that any of these parameters can be easily changed at the top of the script.
+
 FIXATION_DUR = 0.5
+
 STIM_MAX_DUR = 2.0
+
 FEEDBACK_DUR = 0.8
+
 ITI_DUR = 0.4
+
 FISH_SIZE = 1.0
+
 BLOCK_SCHEDULE = (refer back to block 1-4 descriptions)
 
 ## Parameter costumization (if changes wanted)
@@ -96,7 +102,8 @@ Right arrow key: respond when the middle fish swims RIGHT
 Escape: quit the experiment at any time (data collected up to that point is saved)
 
 ## Output
-The experiment saves one CSV file per participant to the data/ folder, named flanker_<participant>_<date>.csv.
+The experiment saves one CSV file per participant to the data/ folder, named:
+flanker_<participant>_<date>.csv.
 
 Each row of the CSV represents one trial and contains:
 
