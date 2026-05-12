@@ -1,5 +1,6 @@
 # Flanker-Test
 The following repository is a complete experimental task examining selective attention and cognitive control using a child-friendly version of the Eriksen flanker task.
+
 ## The Flanker Task
 The Eriksen flanker task is a classic paradigm in cognitive psychology used to measure selective attention and the ability to suppress responses to irrelevant information (Eriksen & Eriksen, 1974). On each trial, participants are shown a row of stimuli and must respond to the direction of the central target while ignoring the surrounding "flanker" stimuli.
 There are two trial types: 
@@ -9,7 +10,7 @@ There are two trial types:
 The difference in reaction time and accuracy between incongruent and congruent trials is called the flanker effect, and it serves as a behavioral measure of attentional control. Larger flanker effects suggest weaker selective attention; smaller flanker effects suggest stronger top-down control. The flanker task has been used widely in cognitive neuroscience, developmental psychology, and clinical research on conditions involving attention difficulties such as ADHD.
 
 ## Attention and Cognitive Control
-The flanker task is widely used to assess two related constructs (1)  selective attention and (2) cognitive control. Selective attention refers to the ability to focus on task-relevant information while filtering out distractors. Cognitive control (also called executive control or inhibitory control) refers to the ability to override automatic or competing responses in favor of goal-directed behaviour. Together, these processes allow flexible, deliberate action in environments where irrelevant information competes for attention.
+The flanker task is widely used to assess two related constructs (1)  selective attention and (2) cognitive control. Selective attention refers to the ability to focus on task-relevant information while filtering out distractors. Cognitive control (also called executive control or inhibitory control) refers to the ability to override automatic or competing responses in favor of goal-directed behavioral. Together, these processes allow flexible, deliberate action in environments where irrelevant information competes for attention.
 
 The flanker effect (the reaction-time cost imposed by incongruent flankers) provides a behavioral index of how efficiently a person can resolve this kind of perceptual and response conflict. Neuroimaging and electrophysiological studies have linked the resolution of flanker conflict to a network of frontal brain regions, particularly the anterior cingulate cortex, which is associated with conflict monitoring (Botvinick et al., 2001).
 
